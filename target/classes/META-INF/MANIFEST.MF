@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: SwaggerRestApiByRichard
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Tina
+Implementation-Vendor-Id: Swagger
+Build-Jdk: 1.8.0_161
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/SwaggerRestApi
+Created-By: Maven Integration for Eclipse
+

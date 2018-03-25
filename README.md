@@ -12,7 +12,7 @@ This is a technical test only
   
 ## What can be further improved
 * ###  To add more unit tests
-* ###  To add more integration tests
+* ###  To add integration tests
 * ###  To have separated data layer
 
 ## How to access

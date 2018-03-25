@@ -9,12 +9,17 @@ This is a technical test only
 * ###  I implemented some unit tests (note: more unit tests can be added) 
   * one sample unit test for controller
   * one sample unit test for service
+  
+## What can be further improved
+* ###  To add more unit tests
+* ###  To add more integration tests
+* ###  To have separated data layer
 
 ## How to access
 
 Please access via https://richardtest2018.herokuapp.com/test/1.0/
 
-# Overview
+## Code Overview
 
 * ### It has separated controllers for /tasks and /todo
 

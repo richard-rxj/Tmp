@@ -1,68 +1,28 @@
-# Project Title
+# Technical test
 
-This is a sample project only
+This is a technical test only
 
-## Getting Started
+## What I did
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+###  implemented all /tasks and /todo endpoints according to the given spec
+###  added in-line documentation if the related code is not self-explained
+###  implemented some unit tests (note: more unit tests can be added) 
+one sample unit test for controller
+one sample unit test for service
 
-### Prerequisites
+## How to access
 
-TBD
+Please access via https://richardtest2018.herokuapp.com/test/1.0/
 
-```
-Give examples
-```
+# Overview
 
-### Installing
+### it has separated controllers for /tasks and /todo
 
-TBD
-
-```
-Give the example
-```
-
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-TBD
-
-## Contributing
-
-TBD
-
-## Versioning
-
-TBD
+### it has separated service for validation
 
 ## Authors
 
 * **Richard** - *Initial work* 
-
 
 ## License
 

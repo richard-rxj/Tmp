@@ -12,7 +12,7 @@ public class BalanceTestResult {
 		return input;
 	}
 
-	public boolean isBalanced() {
+	public boolean getIsBalanced() {
 		return isBalanced;
 	}
 
